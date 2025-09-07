@@ -1,4 +1,4 @@
-# Voting App - QA Portfolio
+# Voting App - QA 
 
 This repository serves as a comprehensive Quality Assurance portfolio, demonstrating a full range of testing skills applied to a real-world microservices application.
 
